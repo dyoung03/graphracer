@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Graphs Racer",
+  "description": "An interactive top-down racing game that generates live distance vs. time graphs, explaining velocity as rate of change through obstacles and speed boosters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
